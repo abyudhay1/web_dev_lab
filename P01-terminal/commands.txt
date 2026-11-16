@@ -1,0 +1,25 @@
+# P01: Project Folder and Terminal Navigation
+
+# Display current working directory
+pwd
+
+# Display files and folders
+ls
+
+# Create a new folder
+mkdir demo
+
+# Enter the demo folder
+cd demo
+
+# Display current location
+pwd
+
+# Go back to parent folder
+cd ..
+
+# List all files and folders
+ls
+
+# Clear terminal
+clear
